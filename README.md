@@ -1,7 +1,7 @@
 # 3DFaceRecontruction
 Reconstruct 3D face from video. From DenseFace3D.
 
-An example result is shown in video "3d_reconstruction_result.mp4"
+An example result is shown in video in results folder "results/3d_reconstruction_result.mp4"
 
 ##Executables (Compiled in linux)
 The Executables folder contains the linux .so file to run the tool. Do copy the 'shape_predictor_68_face_landmarks.dat' file to this folder.
