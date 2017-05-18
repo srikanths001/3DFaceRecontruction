@@ -1,0 +1,2 @@
+/home/srikanth/3DFaceRecontruction/build/CMakeFiles/denseFace3D.dir
+/home/srikanth/3DFaceRecontruction/build/dlib_build/CMakeFiles/dlib.dir
