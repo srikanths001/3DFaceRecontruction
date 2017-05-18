@@ -1,5 +1,5 @@
 # 3DFaceRecontruction
-Reconstruct 3D face from video. From DenseFace3D
+Reconstruct 3D face from video. From DenseFace3D.
 An example result is shown in video "3d_reconstruction_result.mp4"
 
 ##Executables (Compiled in linux)
